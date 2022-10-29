@@ -12,12 +12,12 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ajpglobal18@.com
+    email: ajpglobal18@gmail.com
     phone: 0450 278 661
     timezone: Australia Timezone
     citizenship: Australian
-    website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/junehyung-park-80244598/
+    website: 
+    linkedin: www.linkedin.com/in/junehyung-park
     github: josephlaw22
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -37,8 +37,6 @@ sidebar:
         - idiom: Korean
           level: Native
 
-        - idiom: 
-          level: 
 
     interests:
       title: Interests
@@ -89,9 +87,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Sales Representative, Phone Technician
+        time: July 2022 - Present
+        company: HappyTel Group, Adelaide
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -102,32 +100,31 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Phone, iPad, all phone related devices sales
+            
+      - role: Sales & Technician
+        time: June 2022 - July 2022
+        company: JoA Phone, Adelaide
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Offered a full-time position but due to commuting distance, rejeceted the offer.
+            - Phone, iPad, all phone related devices sales
+
+      - role: Court Interpreter
+        time: April 2019 - December 2021
+        company: ABC Multilingual, Adelaide
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
+          Job included cases in Magistrate, District, Supreme Court and AAT.
+          Key Responsibilities include interpreting the accused/defendants and interpreting witnesses in the District court. The job requires to interpret exactly what is said from the Judge, barristers and prosecutors in the court, tribunal or alternative dispute proceedings. As an interpreter I was able to understand the court system and build connections with current barristers and solicitors.
+          As an interpreter I only interpreted the exact words and sentences and stayed impartial and keep everything confidential.
+
+
+professional experience:
+    title: Professional Experience
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
