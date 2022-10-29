@@ -15,18 +15,18 @@ sidebar:
     email: ajpglobal18@.com
     phone: 0450 278 661
     timezone: Australia Timezone
-    citizenship:
+    citizenship: Australian
     website: blog.webjeda.com #do not add http://
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/junehyung-park-80244598/
     github: josephlaw22
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
@@ -34,22 +34,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Korean
+          level: Native
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Racing
           link:
 
-        - item: Snowboarding
+        - item: Meditation
           link:
 
-        - item: Cooking
+        - item: Dog Walking
           link:
 
 career-profile:
@@ -64,9 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor of International Studies
+        university: University of Adelaide
+        time: 2017 - 2019
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor of Laws
+        university: University of Adelaide
+        time: 2017 - 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
